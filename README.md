@@ -1,2 +1,2 @@
 # problems i solved or will
-problems without tests has been tested in specified platforms
+solved problems without tests has been tested in specified platforms
